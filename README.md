@@ -7,7 +7,8 @@ git clone https://github.com/Mage-Merceron/MowItNowFinal.git
 ```
 
 2. Ouvrir le répository dans `IntelliJ` ou bien `VS Code`. 
-3. Lancer l'oject `main.scala` pour avoir les résultats. 
+3. Ne pas oublier de mettre le ficher `src` en Source Root et le fichier `resources` en Resources Root
+4. Lancer l'oject `Main.scala` pour avoir les résultats. 
 
 ## Présentation : 
 
