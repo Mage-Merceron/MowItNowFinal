@@ -2,7 +2,10 @@
 
 ## Cloner et exécuter le répository
 1. cloner le répository 
-`git clone https://github.com/Mage-Merceron/MowItNowFinal.git`
+```sh
+git clone https://github.com/Mage-Merceron/MowItNowFinal.git
+```
+
 2. Ouvrir le répository dans `IntelliJ` ou bien `VS Code`. 
 3. Lancer l'oject `main.scala` pour avoir les résultats. 
 
@@ -38,17 +41,8 @@ GAGAGAGAA
 AADAADADDA
 ```
 
-`5 5`
-
-`1 2 N`
-
-`GAGAGAGAA`
-
-`3 3 E`
-
-`AADAADADDA`
-
 On attend le résultat suivant (position finale des tondeuses) :
-`Tondeuse 1 : 1 3 N`
-
-`Tondeuse 2 : 5 1 E`
+```sh
+Tondeuse 1 : 1 3 N
+Tondeuse 2 : 5 1 E
+```
