@@ -30,6 +30,14 @@ la pelouse. Les instructions sont une suite de caractères sans espaces.
 
 
 Le fichier suivant est fourni en entrée :
+```sh
+5 5
+1 2 N
+GAGAGAGAA
+3 3 E
+AADAADADDA
+```
+
 `5 5`
 
 `1 2 N`
