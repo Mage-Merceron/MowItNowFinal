@@ -2,7 +2,7 @@
 
 ## Cloner et exécuter le répository
 1. cloner le répository 
-`git clone`
+`git clone https://github.com/Mage-Merceron/MowItNowFinal.git`
 2. Ouvrir le répository dans `IntelliJ` ou bien `VS Code`. 
 3. Lancer l'oject `main.scala` pour avoir les résultats. 
 
