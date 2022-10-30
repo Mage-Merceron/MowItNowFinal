@@ -1,9 +1,8 @@
 # MowItNowFinal
 
+## Cloner et exécuter le répository
 1. cloner le répository 
-`sh
-git clone 
-`
+`git clone`
 2. Ouvrir le répository dans `IntelliJ` ou bien `VS Code`. 
 3. Lancer l'oject `main.scala` pour avoir les résultats. 
 
