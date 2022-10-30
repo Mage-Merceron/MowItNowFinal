@@ -19,7 +19,6 @@ Pour programmer la tondeuse, on lui fournit un fichier d'entrée construit comme
 
 • La première ligne correspond aux coordonnées du coin supérieur droit de la pelouse,
 celles du coin inférieur gauche sont supposées être (0,0).
-
 • La suite du fichier permet de piloter toutes les tondeuses qui ont été déployées.
 
 Chaque tondeuse a deux lignes la concernant :
@@ -31,12 +30,14 @@ la pelouse. Les instructions sont une suite de caractères sans espaces.
 
 
 Le fichier suivant est fourni en entrée :
-5 5
+`5 5
 1 2 N
 GAGAGAGAA
 3 3 E
 AADAADADDA
+`
 
 On attend le résultat suivant (position finale des tondeuses) :
-Tondeuse 1 : 1 3 N
+`Tondeuse 1 : 1 3 N
 Tondeuse 2 : 5 1 E
+`
