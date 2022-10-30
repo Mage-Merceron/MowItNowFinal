@@ -30,14 +30,12 @@ la pelouse. Les instructions sont une suite de caractères sans espaces.
 
 
 Le fichier suivant est fourni en entrée :
-`5 5
-1 2 N
-GAGAGAGAA
-3 3 E
-AADAADADDA
-`
+`5 5`
+`1 2 N`
+`GAGAGAGAA`
+`3 3 E`
+`AADAADADDA`
 
 On attend le résultat suivant (position finale des tondeuses) :
-`Tondeuse 1 : 1 3 N
-Tondeuse 2 : 5 1 E
-`
+`Tondeuse 1 : 1 3 N`
+`Tondeuse 2 : 5 1 E`
